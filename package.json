@@ -1,0 +1,11 @@
+{
+  "name": "quiz-application",
+  "version": "1.0.0",
+  "description": "Basic Functionality of a Quiz Application",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahid Hassan",
+  "license": "ISC"
+}
